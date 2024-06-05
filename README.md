@@ -12,7 +12,6 @@ This operational dashboard is vital for enhancing the transparency and efficienc
 ## Dashboard Overview
 
 <img width="723" alt="image" src="https://github.com/Oladipupo09/Renewable-Energy-Business-Operational-Dashboard/assets/133363227/3becba20-dcc9-43ab-91e1-19d1f7362408">
-<img width="723" alt="image" src="https://github.com/Oladipupo09/Renewable-Energy-Business-Operational-Dashboard/assets/133363227/3becba20-dcc9-43ab-91e1-19d1f7362408">
 
 
 
