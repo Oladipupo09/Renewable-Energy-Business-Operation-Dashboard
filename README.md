@@ -10,6 +10,9 @@ By consolidating data from various distribution channels, the dashboard offers a
 This operational dashboard is vital for enhancing the transparency and efficiency of energy distribution processes, ultimately supporting the sustainable growth and scalability of renewable energy initiatives.
 
 ## Dashboard Overview
-<img width="724" alt="image" src="https://github.com/Oladipupo09/Renewable-Energy-Business-Operational-Dashboard/assets/133363227/41edbc85-1a8b-44dd-9de8-fc5fd0c13483">
+
+<img width="723" alt="image" src="https://github.com/Oladipupo09/Renewable-Energy-Business-Operational-Dashboard/assets/133363227/3becba20-dcc9-43ab-91e1-19d1f7362408">
+<img width="723" alt="image" src="https://github.com/Oladipupo09/Renewable-Energy-Business-Operational-Dashboard/assets/133363227/3becba20-dcc9-43ab-91e1-19d1f7362408">
+
 
 
